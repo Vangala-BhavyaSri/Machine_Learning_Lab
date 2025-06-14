@@ -31,8 +31,8 @@ Ml_Lab/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Vangala-Bhavyasri/machine_learning.git
-   cd machine_learning
+   git clone https://github.com/Vangala-BhavyaSri/Machine_Learning_Lab.git
+   cd Machine_Learning_Lab
 
 2.Launch Jupyter Notebook:
 
